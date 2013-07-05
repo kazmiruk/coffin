@@ -2,9 +2,9 @@
 import os
 from setuptools import setup, find_packages
 
-setup(name='Coffin',
+setup(name='Coffin-GaretJax',
     version=".".join(map(str, __import__("coffin").__version__)),
-    description='Jinja2 adapter for Django',
+    description='Jinja2 adapter for Django, modified version',
     author='Christopher D. Leary',
     author_email='cdleary@gmail.com',
     maintainer='David Cramer',
