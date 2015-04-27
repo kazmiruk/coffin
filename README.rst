@@ -1,6 +1,8 @@
 Coffin: Jinja2 adapter for Django
 ---------------------------------
 
+You shouldn't use this library for your project. Read here https://github.com/coffin/coffin
+
 
 Supported Django template functionality
 =======================================
